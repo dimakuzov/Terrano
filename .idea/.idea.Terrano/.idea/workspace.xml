@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c88dcac-225b-41d6-b8c1-1bb0c40ec949" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Kuz/Scripts/DeviceManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <folding>
+                <marker date="1591630881279" expanded="true" signature="6:114" ph="..." />
+                <marker date="1591630881279" expanded="true" signature="158:1116" ph="{...}" />
+                <marker date="1591630881279" expanded="true" signature="185:791" ph="{...}" />
+                <marker date="1591630881279" expanded="true" signature="1004:1113" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Kuz/Scripts/KuzController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="59" column="65" lean-forward="true" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+              <folding>
+                <marker date="1591626224886" expanded="false" signature="6:238" ph="..." />
+                <marker date="1591626224886" expanded="true" signature="282:15408" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="687:1039" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="715:806" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="819:905" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="1066:2392" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="1106:2386" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="1209:2376" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="1240:1527" ph="/* debugText.text = &quot;TouchPhase.Ended \n&quot;; ... */" />
+                <marker date="1591626224886" expanded="true" signature="1713:2342" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="2174:2319" ph="/* debugText.text += &quot;input.name: &quot; + input.name + &quot;\n&quot;; ... */" />
+                <marker date="1591626224886" expanded="true" signature="2445:2697" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="2515:2617" ph="/* Save input text, and set input field as non interactable ... */" />
+                <marker date="1591626224886" expanded="true" signature="2817:3835" ph="Buttons" />
+                <marker date="1591626224886" expanded="true" signature="2863:3346" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="2958:3340" ph="/* StartCoroutine(GetEventByDeviceId(url + &quot;/api/device/DeviceEvent/GetByDeviceId&quot;, &quot;terrano030320202219&quot;)); ... */" />
+                <marker date="1591626224886" expanded="true" signature="3387:3438" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="3474:3515" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="3521:3819" ph="/* public void MakeSenderData() ... */" />
+                <marker date="1591626224886" expanded="false" signature="3959:6716" ph="Get And Post Data" />
+                <marker date="1591626224886" expanded="true" signature="4050:4766" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="4364:4760" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="4449:4515" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="4547:4750" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="4815:5336" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="4944:5330" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="5029:5095" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="5127:5320" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="5409:6062" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="5626:6056" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="5711:5777" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="5809:6046" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="6119:6685" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="6251:6679" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="6336:6402" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="6434:6669" ph="{...}" />
+                <marker date="1591626224886" expanded="false" signature="6836:8431" ph="Reading" />
+                <marker date="1591626224886" expanded="true" signature="6887:7823" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="7092:7741" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="7860:8411" ph="{...}" />
+                <marker date="1591626224886" expanded="false" signature="8547:13362" ph="Showing" />
+                <marker date="1591626224886" expanded="true" signature="8661:11461" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="8685:8822" ph="/* Вставить координаты Жуковского и проверить компас на нем ... */" />
+                <marker date="1591626224886" expanded="true" signature="10043:11455" ph="/* foreach (var device in allDevice) ... */" />
+                <marker date="1591626224886" expanded="true" signature="11492:13342" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="11736:11792" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="11821:11879" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="12603:12694" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="12770:12879" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="12892:13221" ph="{...}" />
+                <marker date="1591626224886" expanded="false" signature="13486:15401" ph="Temp (making json)" />
+                <marker date="1591626224886" expanded="true" signature="13535:14908" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="14936:15381" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="15411:15707" ph="/* ================================================================================================ ... */" />
+                <marker date="1591626224886" expanded="true" signature="15744:16025" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="16144:16192" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="16237:16882" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="16925:17006" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="17116:17451" ph="{...}" />
+                <marker date="1591626224886" expanded="true" signature="17496:17544" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sensorPref</find>
+      <find>userCamera</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Kuz/Scripts/DeviceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kuz/Scripts/KuzController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Kuz/Scripts/KuzController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kuz/Scripts/DeviceManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="width" value="1932" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c88dcac-225b-41d6-b8c1-1bb0c40ec949" name="Default Changelist" comment="" />
+      <created>1591617332571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591617332571</updated>
+      <workItem from="1591617334111" duration="7249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7249000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1932" height="1087" extended-state="1" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Kuz/Scripts/KuzController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="59" column="65" lean-forward="true" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+          <folding>
+            <marker date="1591626224886" expanded="false" signature="6:238" ph="..." />
+            <marker date="1591626224886" expanded="true" signature="282:15408" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="687:1039" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="715:806" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="819:905" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="1066:2392" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="1106:2386" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="1209:2376" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="1240:1527" ph="/* debugText.text = &quot;TouchPhase.Ended \n&quot;; ... */" />
+            <marker date="1591626224886" expanded="true" signature="1713:2342" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="2174:2319" ph="/* debugText.text += &quot;input.name: &quot; + input.name + &quot;\n&quot;; ... */" />
+            <marker date="1591626224886" expanded="true" signature="2445:2697" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="2515:2617" ph="/* Save input text, and set input field as non interactable ... */" />
+            <marker date="1591626224886" expanded="true" signature="2817:3835" ph="Buttons" />
+            <marker date="1591626224886" expanded="true" signature="2863:3346" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="2958:3340" ph="/* StartCoroutine(GetEventByDeviceId(url + &quot;/api/device/DeviceEvent/GetByDeviceId&quot;, &quot;terrano030320202219&quot;)); ... */" />
+            <marker date="1591626224886" expanded="true" signature="3387:3438" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="3474:3515" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="3521:3819" ph="/* public void MakeSenderData() ... */" />
+            <marker date="1591626224886" expanded="false" signature="3959:6716" ph="Get And Post Data" />
+            <marker date="1591626224886" expanded="true" signature="4050:4766" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="4364:4760" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="4449:4515" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="4547:4750" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="4815:5336" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="4944:5330" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="5029:5095" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="5127:5320" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="5409:6062" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="5626:6056" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="5711:5777" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="5809:6046" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="6119:6685" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="6251:6679" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="6336:6402" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="6434:6669" ph="{...}" />
+            <marker date="1591626224886" expanded="false" signature="6836:8431" ph="Reading" />
+            <marker date="1591626224886" expanded="true" signature="6887:7823" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="7092:7741" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="7860:8411" ph="{...}" />
+            <marker date="1591626224886" expanded="false" signature="8547:13362" ph="Showing" />
+            <marker date="1591626224886" expanded="true" signature="8661:11461" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="8685:8822" ph="/* Вставить координаты Жуковского и проверить компас на нем ... */" />
+            <marker date="1591626224886" expanded="true" signature="10043:11455" ph="/* foreach (var device in allDevice) ... */" />
+            <marker date="1591626224886" expanded="true" signature="11492:13342" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="11736:11792" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="11821:11879" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="12603:12694" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="12770:12879" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="12892:13221" ph="{...}" />
+            <marker date="1591626224886" expanded="false" signature="13486:15401" ph="Temp (making json)" />
+            <marker date="1591626224886" expanded="true" signature="13535:14908" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="14936:15381" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="15411:15707" ph="/* ================================================================================================ ... */" />
+            <marker date="1591626224886" expanded="true" signature="15744:16025" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="16144:16192" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="16237:16882" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="16925:17006" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="17116:17451" ph="{...}" />
+            <marker date="1591626224886" expanded="true" signature="17496:17544" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Kuz/Scripts/DeviceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <marker date="1591630881279" expanded="true" signature="6:114" ph="..." />
+            <marker date="1591630881279" expanded="true" signature="158:1116" ph="{...}" />
+            <marker date="1591630881279" expanded="true" signature="185:791" ph="{...}" />
+            <marker date="1591630881279" expanded="true" signature="1004:1113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
